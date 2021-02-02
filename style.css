@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+div {
+    width: 20%;
+    padding: 10% 10%;
+    border: 3px solid black;
+    margin: auto;
+}
+
+.box {
+    width: 20%;
+    padding: 40% 40%;
+    border: 3px solid black;
+    margin: auto auto;
+    
+}
+
+#one {
+    width: 30%;
+    padding: 100% 100%;
+    border: 3px solid black;
+    margin: auto auto;
+}
